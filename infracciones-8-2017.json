@@ -1,0 +1,15 @@
+[
+{"fecha_hora": "28/12/2016 07:13", "intervenido": "CGM 5060000233", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "Av Italia y Mataojo", "matricula": "SAA 5348"},
+{"fecha_hora": "31/12/2016 11:43", "intervenido": "CGM 5530000507", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "RAMBLA OHIGGINS y 18 DE DICIEMBRE", "matricula": "SAN 2036"},
+{"fecha_hora": "26/12/2016 19:01", "intervenido": "CGM 5270000220", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "AV RIVERA y AV LUIS PONCE", "matricula": "SBK 2057"},
+{"fecha_hora": "26/12/2016 14:15", "intervenido": "CGM 6080000548", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "R REP DE MEXICO y COSTA RICA", "matricula": "SBL 2400"},
+{"fecha_hora": "31/12/2016 07:29", "intervenido": "CGM 5530000502", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "RAMBLA OHIGGINS y 18 DE DICIEMBRE", "matricula": "SBL 2400"},
+{"fecha_hora": "28/12/2016 15:55", "intervenido": "CGM 6020000341", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SBL 8899"},
+{"fecha_hora": "30/12/2016 11:23", "intervenido": "CGM 5300000395", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "RAMBLA OHIGGINS y 18 DE DICIEMBRE", "matricula": "SBN 4221"},
+{"fecha_hora": "30/12/2016 00:48", "intervenido": "CGM 5270000280", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "Av Italia y Mataojo", "matricula": "SBN 7226"},
+{"fecha_hora": "27/12/2016 14:05", "intervenido": "CGM 6020000305", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV.GRAL. FLORES y D. ARAMBURU", "matricula": "SFO 890"},
+{"fecha_hora": "27/12/2016 21:12", "intervenido": "CGM 5440000476", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SHV 955"},
+{"fecha_hora": "30/12/2016 08:13", "intervenido": "CGM 5440000553", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SJI 218"},
+{"fecha_hora": "29/12/2016 17:51", "intervenido": "CGM 5530000458", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "R REP ARGENTINA y CARLOS M MORALES", "matricula": "SJT 825"},
+{"fecha_hora": "31/12/2016 14:46", "intervenido": "CGM 5060000276", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV.GRAL. FLORES y D. ARAMBURU", "matricula": "SJU 174"}
+]

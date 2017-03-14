@@ -1,0 +1,21 @@
+[
+{"fecha_hora": "08/01/2017 20:54", "intervenido": "CGM 5530000697", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV.GRAL. FLORES y D. ARAMBURU", "matricula": "SAL 4931"},
+{"fecha_hora": "04/01/2017 20:54", "intervenido": "CGM 5440000695", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "RAMBLA OHIGGINS y 18 DE DICIEMBRE", "matricula": "SAL 5305"},
+{"fecha_hora": "08/01/2017 03:18", "intervenido": "CGM 5300000667", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y CAMPISTEGUY", "matricula": "SAO 9736"},
+{"fecha_hora": "05/01/2017 23:38", "intervenido": "CGM 5530000621", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "Av Italia y Mataojo", "matricula": "SAX 9460"},
+{"fecha_hora": "04/01/2017 14:16", "intervenido": "CGM 6080000928", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SBI 6215"},
+{"fecha_hora": "09/01/2017 07:35", "intervenido": "CGM 5270000369", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y MARIA ESPINOLA", "matricula": "SBK 6353"},
+{"fecha_hora": "05/01/2017 17:30", "intervenido": "CGM 5550000616", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y MARIA ESPINOLA", "matricula": "SBK 7178"},
+{"fecha_hora": "06/01/2017 15:52", "intervenido": "CGM 5300000574", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y MARIA ESPINOLA", "matricula": "SBN 9673"},
+{"fecha_hora": "08/01/2017 14:51", "intervenido": "CGM 5200000786", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "Av Italia y Mataojo", "matricula": "SBN 9673"},
+{"fecha_hora": "03/01/2017 08:53", "intervenido": "CGM 6080000870", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y CAMPISTEGUY", "matricula": "SBO 1613"},
+{"fecha_hora": "04/01/2017 20:29", "intervenido": "CGM 5530000612", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "Av Italia y Mataojo", "matricula": "SBR 9064"},
+{"fecha_hora": "03/01/2017 09:25", "intervenido": "CGM 5060000385", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV ITALIA y LIDO", "matricula": "SBT 9871"},
+{"fecha_hora": "05/01/2017 21:05", "intervenido": "CGM 5200000705", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "R REP DE MEXICO y COSTA RICA", "matricula": "SCP 969"},
+{"fecha_hora": "09/01/2017 14:50", "intervenido": "CGM 6080000970", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y MARIA ESPINOLA", "matricula": "SHC 151"},
+{"fecha_hora": "07/01/2017 11:23", "intervenido": "CGM 6080000986", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SJC 133"},
+{"fecha_hora": "08/01/2017 14:01", "intervenido": "CGM 5530000704", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV.GRAL. FLORES y D. ARAMBURU", "matricula": "SJM 393"},
+{"fecha_hora": "07/01/2017 14:01", "intervenido": "CGM 5270000408", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV.GRAL. FLORES y D. ARAMBURU", "matricula": "SJM 393"},
+{"fecha_hora": "07/01/2017 15:57", "intervenido": "CGM 5440000759", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SJT 498"},
+{"fecha_hora": "02/01/2017 13:46", "intervenido": "CGM 5300000518", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y CAMPISTEGUY", "matricula": "STX 6503"}
+]

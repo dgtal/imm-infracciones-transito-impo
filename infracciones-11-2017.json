@@ -1,0 +1,15 @@
+[
+{"fecha_hora": "19/12/2016 17:50", "intervenido": "CGM 5440000211", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SBK 5483"},
+{"fecha_hora": "18/12/2016 14:37", "intervenido": "CGM 6080000168", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "Av Italia y Mataojo", "matricula": "SBK 9314"},
+{"fecha_hora": "18/12/2016 14:22", "intervenido": "CGM 6080000118", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "Av Italia y Mataojo", "matricula": "SBM 5715"},
+{"fecha_hora": "18/12/2016 01:16", "intervenido": "CGM 6080000159", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "Av Italia y Mataojo", "matricula": "SBR 9220"},
+{"fecha_hora": "16/12/2016 22:37", "intervenido": "CGM 5200000080", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "Av Italia y Mataojo", "matricula": "SBV 4815"},
+{"fecha_hora": "18/12/2016 23:15", "intervenido": "CGM 6080000185", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "AV RIVERA y AV LUIS PONCE", "matricula": "SBV 7424"},
+{"fecha_hora": "17/12/2016 19:19", "intervenido": "CGM 6530000152", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SBX 7823"},
+{"fecha_hora": "18/12/2016 20:21", "intervenido": "CGM 6470000169", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGA S y CAMPISTEGUY", "matricula": "SBY 3100"},
+{"fecha_hora": "16/12/2016 18:30", "intervenido": "CGM 6570000115", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "AV RIVERA y AV LUIS PONCE", "matricula": "SCA 8955"},
+{"fecha_hora": "18/12/2016 19:43", "intervenido": "CGM 6530000166", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SCB 3113"},
+{"fecha_hora": "18/12/2016 19:34", "intervenido": "CGM 5440000194", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "R REP ARGENTINA y CARLOS M MORALES", "matricula": "SDI 3862"},
+{"fecha_hora": "13/12/2016 11:09", "intervenido": "CGM 5060000014", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "AV RIVERA y AV LUIS PONCE", "matricula": "STC 2265"},
+{"fecha_hora": "18/12/2016 07:09", "intervenido": "CGM 5440000169", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV ITALIA y FRANCISCO SIMON", "matricula": "STX 8174"}
+]
