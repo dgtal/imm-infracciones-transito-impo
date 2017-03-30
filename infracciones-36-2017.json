@@ -1,0 +1,23 @@
+[
+{"fecha_hora": "05/03/2017 20:35 ", "intervenido": "CGM 5550001255", "valor_ur": "5", "articulo": " Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SAK 5690"},
+{"fecha_hora": "04/03/2017 15:41 ", "intervenido": "CGM 5440002414", "valor_ur": "8 ", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SAL 6627"},
+{"fecha_hora": "05/03/2017 07:51", "intervenido": "CGM 5530001817", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV ITALIA y BOLONIA", "matricula": "SAR 6470"},
+{"fecha_hora": "11/03/2017 14:03", "intervenido": "CGM 6480001449", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV ITALIA y BOLONIA", "matricula": "SAR 6470"},
+{"fecha_hora": "08/03/2017 14:10", "intervenido": "CGM 6480001552", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y MARIA ESPINOLA", "matricula": "SBG 6806"},
+{"fecha_hora": "06/03/2017 16:12", "intervenido": "CGM 4630001343", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV MILLAN y CISPLATINA", "matricula": "SBH 2714"},
+{"fecha_hora": "11/03/2017 05:51", "intervenido": "CGM 6480001467", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "Av 8 de Octubre y Gral Garibaldi", "matricula": "SBI 5709"},
+{"fecha_hora": "07/03/2017 12:24", "intervenido": "CGM 5680000899", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y MARIA ESPINOLA", "matricula": "SBK 6151"},
+{"fecha_hora": "09/03/2017 13:11", "intervenido": "CGM 5220001120", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "R REP ARGENTINA y EDUARDO ACEVEDO", "matricula": "SBM 8104"},
+{"fecha_hora": "06/03/2017 14:54", "intervenido": "CGM 6480001447", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "RAMBLA OHIGGINS y 18 DE DICIEMBRE", "matricula": "SBN 3915"},
+{"fecha_hora": "07/03/2017 18:45", "intervenido": "CGM 4630001384", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV MILLAN y CISPLATINA", "matricula": "SBN 6221"},
+{"fecha_hora": "06/03/2017 12:17", "intervenido": "CGM 4630001333", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV MILLAN y CISPLATINA", "matricula": "SBN 9816"},
+{"fecha_hora": "10/03/2017 14:59", "intervenido": "CGM 6530001907", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SBP 9522"},
+{"fecha_hora": "05/03/2017 14:33", "intervenido": "CGM 4630001326", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV MILLAN y CISPLATINA", "matricula": "SBQ 7392"},
+{"fecha_hora": "09/03/2017 11:12", "intervenido": "CGM 6480001388", "valor_ur": "5", "articulo": " Art. 1/106: Cruzar o girar con luz roja", "interseccion": "RAMBLA M. GANDHI y SOLANO GARCIA", "matricula": "SCE 1042"},
+{"fecha_hora": "06/03/2017 07:34", "intervenido": "CGM 6080001986", "valor_ur": "8 ", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV RIVERA y FCO LLAMBI", "matricula": "SGJ 779"},
+{"fecha_hora": "13/03/2017 06:09", "intervenido": "CGM 6480001676", "valor_ur": "5", "articulo": " Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y 21 DE SETIEMBRE", "matricula": "SGT 474"},
+{"fecha_hora": "07/03/2017 17:10", "intervenido": "CGM 5270001228", "valor_ur": "8", "articulo": " Art. 1/103/2: Exceso de velocidad", "interseccion": "AV MILLAN y CISPLATINA", "matricula": "SHD 404"},
+{"fecha_hora": "04/03/2017 08:32", "intervenido": "CGM 5440002465", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y PEDERNAL", "matricula": "SII 625"},
+{"fecha_hora": "08/03/2017 10:06", "intervenido": "CGM 4630001405", "valor_ur": "8", "articulo": "Art. 1/103/2: Exceso de velocidad", "interseccion": "AV MILLAN y CISPLATINA", "matricula": "SJU 862"},
+{"fecha_hora": "05/03/2017 21:56", "intervenido": "CGM 5530001807", "valor_ur": "5", "articulo": "Art. 1/106: Cruzar o girar con luz roja", "interseccion": "BV ARTIGAS y CAMPISTEGUY", "matricula": "SJV 838"}
+]
